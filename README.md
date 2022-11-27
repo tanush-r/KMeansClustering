@@ -1,7 +1,7 @@
 <h1 style="font-size:50px;">K Means Clustering</h1><hr>
 
 K Means Clustering is an unsupervised machine learning algorithm, in which the unlabeled data is clustered together into groups. How is this done? First we plot the data into a scatterplot, then we attempt to find K points(centroids) such that the various points in all the groups are closest it. Accordingly we group the points into K clusters.<br>Hence, this algorithm is called as K Means Clustering.
-![1.png](attachment:image.png)
+<img src="1.png">
 
 <h2>Dataset</h2><br>To demonstrate K Means Clustering, we will work with a dataset of various Universities and cluster them into <b>Private</b> or <b>Public</b>
 <br><h2>Importing the libraries and fetching data</h2>
